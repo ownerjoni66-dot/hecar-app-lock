@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HECAR App Lock</string>
+    <string name="service_description">
+        HECAR detects selected apps and displays your lock screen.
+        It does not collect or send your data.
+    </string>
+</resources>
